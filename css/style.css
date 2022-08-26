@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Prata&display=swap");
+
+h1 {
+    font-size: 100px;
+    color: black;
+    font-family: "Prata", serif;
+    margin: 20px;
+    text-align: center;
+}
+
+p {
+    font-family: "Prata", serif;
+    font-size: 20px;
+}
+
+.color-boton {
+    background-color: darkslategrey;
+}
+
+.row {
+    justify-content: space-evenly;
+}
+
+.card {
+    background: gray;
+}
+
